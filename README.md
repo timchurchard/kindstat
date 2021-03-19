@@ -11,7 +11,7 @@ Attempt to collect and show reading statistics from Kindle ereader
 - I made this for my personal amusement!
 - This is not tested with every type of kindle, firmware version, book formats etc.
 
-Using KRDS [https://www.mobileread.com/forums/showthread.php?t=322172](KRDS Source mobilereads.com) to read extra files like .mbp
+Using KRDS [KRDS Source mobilereads.com](https://www.mobileread.com/forums/showthread.php?t=322172) to read extra files like .mbp
 
 
 ## Providing test data
